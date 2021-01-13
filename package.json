@@ -1,0 +1,10 @@
+{
+  "workspaces": {
+    "packages": [
+      "packages/**"
+    ]
+  },
+  "scripts": {
+    "test": "node ./packages/app/src/index.js"
+  }
+}
