@@ -1,0 +1,5 @@
+{
+  "scripts": {
+    "test": "node ./packages/app/src/index.js"
+  }
+}
